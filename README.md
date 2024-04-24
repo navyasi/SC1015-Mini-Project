@@ -42,4 +42,7 @@ NTU
 2. https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
 3. https://www.learndatasci.com/glossary/tf-idf-term-frequency-inverse-document-frequency/
 4. https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+5. https://towardsdatascience.com/why-adamw-matters-736223f31b5d#:~:text=Adaptive%20optimizers%20like%20Adam%20have%20become%20a%20default%20choice%20for,to%20not%20generalize%20as%20well.
+6. https://explained.ai/regularization/L1vsL2.html#:~:text=From%20a%20practical%20standpoint%2C%20L1,you%20have%20collinear%2Fcodependent%20features
+7. https://medium.com/@nirajan.acharya666/choosing-between-mean-squared-error-mse-and-mean-absolute-error-mae-in-regression-a-deep-dive-c16b4eeee603
 
