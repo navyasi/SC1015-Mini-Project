@@ -25,8 +25,9 @@ NTU
 ## Conclusion 
 - Budget has the strongest linear correlation with revenue, followed by vote count, popularity, adventure genre, and English language movies.
 - Movie overview, age rating, release year, and average vote have the lowest linear correlation.
-- The Neural Network model performed best with a very low learning rate
-- A dataset with more variables should be used, to increase the breadth of Neural Network learning
+- The Neural Network model performed best with a very low learning rate.
+- A dataset with more variables should be used, to increase the breadth of Neural Network learning.
+- Linear Regression model works better than Neural Network to predict revenue with this data.
 - Yes, it is possible to predict approximately how much revenue a movie will generate with an acceptable amount of accuracy.
 
 ## What did we learn from this?
